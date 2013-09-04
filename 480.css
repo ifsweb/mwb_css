@@ -1,0 +1,230 @@
+
+body{
+		width: 465px; min-height: 420px;
+		font-family:Arial, Verdana, Helvetica, sans-serif; 
+		font-size:16px; 
+		margin:0;
+		background-color:#FFFFFF;
+}
+
+div.application{
+		width: 465px; min-height:360px; padding:0 0 0 0;
+}
+
+form { margin: 0 0 0 0;}
+
+div.login {
+		padding: 10px 0px 15px 0px;
+                margin: 0px 10px 0px 10px;
+}
+
+div.loout{
+		padding: 15px 0px 15px 0px;
+}
+
+div.tapMenu{
+		background-color:#ffffff;
+                margin: 0px 10px 0px 10px;
+}
+
+div.B_rates_title_BB{
+                font-weight:bold;
+                font-size: 19px;
+		padding: 5px 0px 5px 10px;
+		background-color:#222222;
+                color: #ffffff;
+}
+
+div.B_rates_title_OTH{
+                font-weight:bold;
+                font-size: 19px;
+                color: #222222;
+		padding: 5px 0px 5px 10px;
+                
+}
+
+div.B_title {
+		font-weight:bold;
+                font-size: 21px;
+		padding: 5px 0px 5px 10px;
+		background-color:#222222;
+                color: #ffffff;
+}
+
+div.B_stitle {
+		font-weight:bold;
+                font-size: 21px;
+		padding: 5px 0px 5px 10px;
+		background-color:#222222;
+                color: #ffffff;
+}
+
+div.W_title {
+	   font-weight:bold;
+           font-size: 21px;
+	   padding: 0px 0px 0px 20px;
+	   color: #333333;
+}
+
+div.R_title {
+	   font-weight:bold;
+           font-size: 21px;
+	   padding: 0px 0px 0px 10px;
+           color: #333333;
+}
+
+div.R_subtitle {
+	   font-weight:bold;
+           font-size: 19px;
+	   padding: 0px 0px 0px 0px;
+           color: #333333;
+}
+
+div.user {
+        padding: 10px 0px 10px 10px;
+		font-weight:bold; 
+}
+
+div.C_stack {margin:5px 10px 5px 10px; text-align:center;}
+
+div.center {margin:5px 0px 5px 0px; text-align:center;}
+
+div.S_stack {
+		padding: 5px 0px 5px 0px;
+                margin: 0px 10px 0px 10px;
+}
+
+div.M_stack {
+		padding: 15px 0px 15px 0px;
+                margin: 0px 10px 0px 10px;
+}
+
+div.L_stack {
+		padding: 13px 0px 13px 0px;
+                margin: 0px 10px 0px 10px;
+}
+
+
+div.loginButton{
+                padding: 10px 0px 10px 0px;
+		margin: 5px 10px 5px 10px;
+}
+
+div.numList{
+	margin:5px 0px 5px 0px
+}
+
+.label {font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size: 19px; color: #666; }
+.B_label {font-weight:bold; font-family:Arial, Helvetica, sans-serif;  color:#222222}
+.G_label {font-weight:bold; font-family:Arial, Helvetica, sans-serif;  color:#33CC33}
+
+.data {font-weight:bold; font-family:Arial, Helvetica, sans-serif; color:#58595B}
+
+.B_inform{
+		margin: 5px 10px 5px 10px;
+		padding: 15px 5px 15px 10px;
+		background:#111111;
+		border: 1px solid #aaa;	           
+			-moz-border-radius: 12px;
+			 -webkit-border-radius: 12px;
+}
+
+.B_nomargin_inform{
+                padding: 15px 5px 15px 10px;
+		background:#111111;
+}
+
+.W_inform{
+		margin: 5px 10px 5px 10px;
+		padding:5px 8px 5px 10px;
+		border: 1px solid #aaa;	           
+			-moz-border-radius: 12px;
+			 -webkit-border-radius: 12px;
+}
+
+.G_inform{
+		padding:10px 0px 5px 10px;
+		background-color:#EBEBEB;
+}
+
+.F_inform{
+		padding:10px 0px 5px 10px;
+		background-color:#ffffff;
+}
+
+a, a:hover, a:active, a:focus { color: #333333 }
+a.BL,  a.BL:hover, a.BL:active, a.BL:focus{ font-weight:bold; color:#333333; font-size:17px;}
+a.BK,  a.BK:hover, a.BK:active, a.BK:focus{ font-weight:bold; color:#000000;}
+a.GN,  a.GN:hover, a.GN:active, a.GN:focus{ font-weight:bold; color:#33CC33;}
+a.BE,  a.BE:hover, a.BE:active, a.BE:focus{ font-weight:bold; color:#333333;}
+a.GK,  a.GK:hover, a.BE:active, a.GK:focus{ color:#58595B;}
+a.GK_noline,  a.GK_noline:hover, a.GK_noline:active, a.GK_noline:focus{ font-weight:bold; color:#58595B; text-decoration: none;} 
+a.footer,  a.footer:hover, a.footer:active, a.footer:focus{font-size:19px; color:#58595B}
+
+img {border:none}
+
+select, input { margin: 5px 0px 5px 0px;}
+
+select.long{width:300px }
+
+input.long{width:300px }
+input.longLogin {width:98%; height:35px; font-size: 22px; padding-top: 1px; padding-bottom: 1px; vertical-align: top;}
+input.chkbox {width:20px; height: 20px; vertical-align:middle; padding:2px 0 0 0}
+
+table.tapMenu{width:100%;border-spacing:0px;padding:0px}
+
+table.sideBySide{width:90%;border-spacing:0px;padding:0px}
+table.sideBySide td.label, 
+table.sideBySide td.left {width:70%;padding:1px 0px 1px 0px}
+table.sideBySide td.data,
+table.sideBySide td.right {width:30%;padding:1px 0px 1px 0px}
+
+table.sideBySideSpacing{width:90%;border-spacing:0px;padding:5px}
+table.sideBySideSpacing td.label, 
+table.sideBySideSpacing td.left {width:65%;vertical-align:top}
+table.sideBySideSpacing td.data,
+table.sideBySideSpacing td.right {width:35%;vertical-align:top}
+
+table.sideBySideEven{width:100%;border-spacing:0px;padding:0px}
+table.sideBySideEven td.label, 
+table.sideBySideEven td.left {width:50%;padding:1px 0px 1px 0px;text-align:center; }
+table.sideBySideEven td.data,
+table.sideBySideEven td.right  {width:50%;padding:1px 0px 1px 0px;text-align:center;}
+
+table.sideBySideRight{width:100%;border-spacing:0px;padding:0px}
+table.sideBySideRight td.label, 
+table.sideBySideRight td.left {width:80% }
+table.sideBySideRight td.data,
+table.sideBySideRight td.right  {width:20% }
+
+table.sideBySideRightSide{width:100%;border-spacing:0px;padding:0px}
+table.sideBySideRightSide td.label, 
+table.sideBySideRightSide td.left {width:90% }
+table.sideBySideRightSide td.data,
+table.sideBySideRightSide td.right  {width:10% }
+
+table.location_BB { width:100%; border-spacing: 0px; padding: 0px; margin: 3px 5px 3px 5px;}
+table.location_BB td.Loc_Addr_BB { color: #58595b; width: 60% }
+table.location_BB td.Loc_Name_BB { font-weight: bold; color: #000000; width: 40%; vertical-align: top;}
+
+table.location_Other {width: 100%; border-spacing:0px; padding:0px; margin: 3px 5px 3px 5px;}
+table.location_Other td.Loc_Addr_Other { color: #58595b; }
+table.location_Other td.Loc_Name_Other { font-weight: bold; color: #222222;}
+
+table.navigation{
+                margin: 0px 10px 0px 10px;
+                border: 0;
+}
+table.navigation_noleftmargin{
+                margin: 0px 10px 0px 0px;
+                border: 0;
+}
+
+table.paymentHistory { width: 100%; border-spacing:0px;}
+table.paymentHistory td.date { color: #58595B; width:70%}
+table.paymentHistory td.amount { color: #000000; width:30%; font-weight:bold;}
+table.paymentHistory td.source { color: #58595B;}
+table.paymentHistory td.recipient { color: #000000; font-weight: bold; font-size: 19px}
+
+ul.glyph{ color: #222222; list-style-position: outside; font-size: 17px;}
+ul.glyph li { margin: 5px 0px 5px 0px }
